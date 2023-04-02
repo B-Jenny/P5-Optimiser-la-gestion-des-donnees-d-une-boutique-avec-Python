@@ -1,4 +1,7 @@
+Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms
+
 # P5-Optimisez-la-gestion-des-données-d-une-boutique-avec-Python
+
 objectifs : 
 - Réaliser une analyse univariée pour interpréter des données, 
 - Gérer les erreurs et les incohérences présentes sur des données stockées, 
